@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadSalehi80
 - 👀 I’m interested in Gaming!
-- 🌱 I’m currently learning Front-end Web Development
+- 🌱 I’m currently learning Back-end Web Development
 - 📫 How to reach me: ahmadsalehi3545@gmail.com
   
 
